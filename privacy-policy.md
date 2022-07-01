@@ -4,10 +4,9 @@ HOW THE BREEJ HANDLES YOUR DATA EFFECTIVE JANUARY 29, 2022
 As part of our mission to promote convenience and flexibility in learning, we collect and use information about you, our:
 1. Tutors and Content Creators using The Breej to promote your tutorial services and educational content
 2. Users who use The Breej to gain access to tutors and educational content
-3. Partners develop apps for tutors and content creators to use, refer potential tutors and content creators to The Breej, or otherwise help tutors and content
-creators operate and improve their experience on The Breej’s platform
-- Users of other The Breej services
-- Visitors to The Breej’s website or anyone contacting The Breej support.
+3. Partners develop apps for tutors and content creators to use, refer potential tutors and content creators to The Breej, or otherwise help tutors and content creators operate and improve their experience on The Breej’s platform
+4. Users of other The Breej services
+5. Visitors to The Breej’s website or anyone contacting The Breej support.
 This privacy policy will help you better understand how we collect, use, and share your personal information. If we change our privacy practices, we may update this privacy policy. If any changes are significant, we will let you know (for example, through The Breej admin or by email)
 OUR VALUES
 Integrity is the cornerstone of The Breej platform and that includes trusting us to do the right thing with your information. Three main values guide us as we develop our products and services. These values should give you a better understanding of how we think about your information and privacy.
